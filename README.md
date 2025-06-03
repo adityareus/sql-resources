@@ -13,7 +13,9 @@ Start with some of these exercise given on Postgres
 
 Do some Data Lemur, StrataScratch and Leetcode questions
 2] https://datalemur.com/questions/updated-status
+
 3]http://platform.stratascratch.com/coding/10352-users-by-avg-session-time/official-solution?code_type=1
+
 4] https://leetcode.com/problems/consecutive-numbers/description/
 
 To Revise window functions do this:
