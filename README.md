@@ -7,9 +7,11 @@ Warm-up with these:
 https://www.sql-practice.com/
 
 Start with some of these exercise given on Postgres
+
 1] https://pgexercises.com/questions/joins/sub.html
 
 Do some Data Lemur, StrataScratch and Leetcode questions
+
 2] https://datalemur.com/questions/updated-status
 
 3] http://platform.stratascratch.com/coding/10352-users-by-avg-session-time/official-solution?code_type=1
@@ -17,7 +19,9 @@ Do some Data Lemur, StrataScratch and Leetcode questions
 4] https://leetcode.com/problems/consecutive-numbers/description/
 
 To Revise window functions do this:
+
 5] https://www.windowfunctions.com/questions/over/0
 
 To Do lengthy case study type problems this one is a goldmine:
+
 6] https://8weeksqlchallenge.com/case-study-4/
